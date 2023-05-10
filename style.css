@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  height: 6000px;
+  height: 4000px;
   font-family: "nanumsqaure";
 }
 
@@ -294,4 +294,8 @@ img {
   margin-left: 50%;
   margin-top: 1010px;
   color: white;
+}
+
+#clock {
+  text-align: center;
 }
